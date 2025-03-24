@@ -151,7 +151,7 @@
         "type" : "object",
         "properties" : {
           "id" : {
-            "type" : "string"
+            "type" : "integer"
           },
           "type" : {
             "type" : "string"
