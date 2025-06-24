@@ -166,7 +166,8 @@
             "type" : "number"
           }
         },
-        "additionalProperties" : false
+        "additionalProperties" : false,
+        "description" : ""
       },
       "inline_response_200" : {
         "oneOf" : [ {
